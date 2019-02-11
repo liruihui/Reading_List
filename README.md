@@ -19,7 +19,7 @@ Reading list on deep learning.
 * **PPFNet**: Haowen Deng, et al. "PPFNet: Global Context Aware Local Features for Robust 3D Point Matching" In 2018 CVPR
 * **PPF-FoldNet**: Haowen Deng, et al. "PPF-FoldNet: Unsupervised Learnning of Rotation Invariant 3D Local Descriptors" In 2018 ECCV
 * **PPPU**: Wang Yifan, et al. "Patch-based Progressive 3D Point Set Upsampling " arXiv:1811.11286
-* 
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014.  
 
