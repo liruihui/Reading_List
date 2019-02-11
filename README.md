@@ -3,47 +3,63 @@ Reading list on deep learning.
 
 ***
 
+## 3D GAN && PointCloud
+* **3D-GAN**: Jiajun Wu, et al."Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling" In 2016 NIPS
+* **IW-GAN**:Edward J. Smith, et al. "Improved Adversarial Systems for 3D Object Generation and Reconstruction" arXiv:1707.09557. 
+* **RecGAN**: Bo Yang, et al. "3D Object Reconstruction from a Single Depth View with Adversarial Learning" In 2017 ICCV workshop
+* **GAL**: Jiang Li, et al. "GAL: Geometric Adversarial Loss for Single-View 3D-Object Reconstruction" In 2018 ECCV
+* **PSGN**: Haoqiang Fan, et al."A Point Set Generation Network for 3D Object Reconstruction from a Single Image" In 2017 CVPR
+* **PCN**: Wentao Yuan, et al. "PCN: Point Completion Network." In 2018 3DV
+* **Dense Rec**: Chen-Hsuan Lin, et al."Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction" In 2018 AAAI
+* **Point Cloud GAN**: Chun-Liang Li, et al. "Point Cloud GAN"  arXiv:1810.05795. 
+* **PCPNet**: Paul Guerrero, et al. "PCPNET: Learning Local Shape Properties from Raw Point Clouds" In 2018 EG
+* **LRGM**: Panos Achlioptas, et al."Learning Representations and Generative Models for 3D Point Clouds" In 2018 ICLR workshop 
+* **P2PNet**: KANGXUE YIN, et al."P2P-NET: Bidirectional Point Displacement Net for Shape Transform" In 2018 Siggraph
+* **POINTCLEANNET**: Marie-Julie Rakotosaona, et al. "POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds" arXiv: 1901.01060 
+* **PPFNet**: Haowen Deng, et al. "PPFNet: Global Context Aware Local Features for Robust 3D Point Matching" In 2018 CVPR
+* **PPF-FoldNet**: Haowen Deng, et al. "PPF-FoldNet: Unsupervised Learnning of Rotation Invariant 3D Local Descriptors" In 2018 ECCV
+* **PPPU**: Wang Yifan, et al. "Patch-based Progressive 3D Point Set Upsampling " arXiv:1811.11286
+* 
 ## Image GAN
-* **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014. :star::star::star::star::star:
+* **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014.  
 
-* **cGAN**: Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). :star::star::star::star::star:
+* **cGAN**: Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). 
 
-* **S<sup>2</sup>-GAN**: Xiaolong Wang, et al. "Generative Image Modeling using Style and Structure Adversarial Networks." In 2016 ECCV :star::star:
+* **S<sup>2</sup>-GAN**: Xiaolong Wang, et al. "Generative Image Modeling using Style and Structure Adversarial Networks." In 2016 ECCV 
 
-* **DCGAN**: Radford, et al.. "Unsupervised representation learning with deep convolutional generative adversarial networks." In 2016 ICLR. :star::star::star::star: 
+* **DCGAN**: Radford, et al.. "Unsupervised representation learning with deep convolutional generative adversarial networks." In 2016 ICLR
 
-* **Pixel2Pixel**: Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks."  In 2017 CVPR. :star::star::star::star::star:
+* **Pixel2Pixel**: Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks."  In 2017 CVPR
 
-* **SRGAN**: Christian,Ledig, et al. "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial
-  Network."  In 2017 CVPR. :star::star::star::star::star:
+* **SRGAN**: Christian,Ledig, et al. "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial  Network."  In 2017 CVPR.
 
-* **AdaIN**: Xun Huang , et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization ."  In 2017 ICCV. :star::star::star::star::star:
+* **AdaIN**: Xun Huang , et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization ."  In 2017 ICCV
 
-* **CycleGAN**：Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." In 2017 ICCV. :star::star::star::star::star:
+* **CycleGAN**：Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." In 2017 ICCV. 
 
-* **BicycleGAN**：Zhu, Jun-Yan, et al. "Toward Multimodal Image-to-Image Translation." In 2017 NIPS. :star::star::star::star::star:
+* **BicycleGAN**：Zhu, Jun-Yan, et al. "Toward Multimodal Image-to-Image Translation." In 2017 NIPS. 
 
-* **Least square loss** :Xudong, Mao , et al. "Least Squares Generative Adversarial Networks ." In 2017 ICCV. :star::star::star::star::star:
+* **Least square loss** :Xudong, Mao , et al. "Least Squares Generative Adversarial Networks ." In 2017 ICCV. 
 
-* **StackGAN**: Han Zhang, et al. "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks ." In 2017 ICCV. :star::star::star::star:
+* **StackGAN**: Han Zhang, et al. "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks ." In 2017 ICCV. 
 
-* **StackGAN++**: Han Zhang, et al. "StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks ." In 2018 TPAMI. :star::star::star::star:
+* **StackGAN++**: Han Zhang, et al. "StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks ." In 2018 TPAMI. 
 
-* **TTUR**: Martin Heusel, et al. "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ." In 2017 NIPS. :star::star::star::star:
+* **TTUR**: Martin Heusel, et al. "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ." In 2017 NIPS.
 
-* **SGAN**: Xun Huang , et al. "Stacked Generative Adversarial Networks ." In 2017 CVPR. :star::star::star::star:
+* **SGAN**: Xun Huang , et al. "Stacked Generative Adversarial Networks ." In 2017 CVPR. 
 
-* **Style-Based GAN**: Tero Karras , et al. "A Style-Based Generator Architecture for Generative Adversarial Networks ." NVIDIA. In 2018 arXiv. :star::star::star::star:
+* **Style-Based GAN**: Tero Karras , et al. "A Style-Based Generator Architecture for Generative Adversarial Networks ." NVIDIA. In 2018 arXiv. 
 
-* **StarGAN**: Choi, Yunjey, et al. "Stargan: Unified generative adversarial networks for multi-domain image-to-image translation." In CVPR 2018. :star::star::star::star:
+* **StarGAN**: Choi, Yunjey, et al. "Stargan: Unified generative adversarial networks for multi-domain image-to-image translation." In CVPR 2018. 
 
-* **DISSECTIONGAN**: Zhu, Jun-Yan, et al.  "GAN DISSECTION: VISUALIZING AND UNDERSTANDING GENERATIVE ADVERSARIAL NETWORKS ." arXiv:1811.10597. :star::star::star::star:
+* **DISSECTIONGAN**: Zhu, Jun-Yan, et al.  "GAN DISSECTION: VISUALIZING AND UNDERSTANDING GENERATIVE ADVERSARIAL NETWORKS ." arXiv:1811.10597.
 
-* **GDWTC**: Wonwoong Cho, et al. "Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation" arXiv:1812.09912. :star::star::star::star: 
+* **GDWTC**: Wonwoong Cho, et al. "Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation" arXiv:1812.09912. 
 
-* **Latent Filter GAN**: Yazeed Alharbi, et al."Latent Filter Scaling for Multimodal Unsupervised Image-to-Image Translation." arXiv:1812.09877. :star::star::star::star: 
+* **Latent Filter GAN**: Yazeed Alharbi, et al."Latent Filter Scaling for Multimodal Unsupervised Image-to-Image Translation." arXiv:1812.09877.
 
-* **CariGAN**: KAIDI CAO, et al. "CariGANs: Unpaired Photo-to-Caricature Translation."  In 2018 Siggraph.  **
+* **CariGAN**: KAIDI CAO, et al. "CariGANs: Unpaired Photo-to-Caricature Translation."  In 2018 Siggraph. 
 
 * **AttnGAN**: Tao Xu, et al. "AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks." In 2018 CVPR
 
@@ -77,22 +93,7 @@ Reading list on deep learning.
 
 * **RGAN**: Alexia Jolicoeur-Martineau. "The relativistic discriminator: a key element missing from standard GAN" In 2019 ICLR
 
-## 3D GAN && PointCloud
-* **3D-GAN**: Jiajun Wu, et al."Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling" In 2016 NIPS
-* **IW-GAN**:Edward J. Smith, et al. "Improved Adversarial Systems for 3D Object Generation and Reconstruction" arXiv:1707.09557. 
-* **RecGAN**: Bo Yang, et al. "3D Object Reconstruction from a Single Depth View with Adversarial Learning" In 2017 ICCV workshop
-* **GAL**: Jiang Li, et al. "GAL: Geometric Adversarial Loss for Single-View 3D-Object Reconstruction" In 2018 ECCV
-* **PSGN**: Haoqiang Fan, et al."A Point Set Generation Network for 3D Object Reconstruction from a Single Image" In 2017 CVPR
-* **PCN**: Wentao Yuan, et al. "PCN: Point Completion Network." In 2018 3DV
-* **Dense Rec**: Chen-Hsuan Lin, et al."Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction" In 2018 AAAI
-* **Point Cloud GAN**: Chun-Liang Li, et al. "Point Cloud GAN"  arXiv:1810.05795. 
-* **PCPNet**: Paul Guerrero, et al. "PCPNET: Learning Local Shape Properties from Raw Point Clouds" In 2018 EG
-* **LRGM**: Panos Achlioptas, et al."Learning Representations and Generative Models for 3D Point Clouds" In 2018 ICLR workshop 
-* **P2PNet**: KANGXUE YIN, et al."P2P-NET: Bidirectional Point Displacement Net for Shape Transform" In 2018 Siggraph
-* **POINTCLEANNET**: Marie-Julie Rakotosaona, et al. "POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds" arXiv: 1901.01060 
-* **PPFNet**: Haowen Deng, et al. "PPFNet: Global Context Aware Local Features for Robust 3D Point Matching" In 2018 CVPR
-* **PPF-FoldNet**: Haowen Deng, et al. "PPF-FoldNet: Unsupervised Learnning of Rotation Invariant 3D Local Descriptors" In 2018 ECCV
-* **PPPU**: Wang Yifan, et al. "Patch-based Progressive 3D Point Set Upsampling " arXiv:1811.11286
+
 
 ## GNN
 * Peter W. Battaglia, et al. "Relational inductive biases, deep learning, and graph networks" arXiv: 1806.01261
