@@ -90,6 +90,7 @@ Reading list on deep learning.
 * **LRGM**: Panos Achlioptas, et al."Learning Representations and Generative Models for 3D Point Clouds" In 2018 ICLR workshop 
 * **P2PNet**: KANGXUE YIN, et al."P2P-NET: Bidirectional Point Displacement Net for Shape Transform" In 2018 Siggraph
 * **POINTCLEANNET**: Marie-Julie Rakotosaona, et al. "POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds" arXiv: 1901.01060 
+* **PPF-FoldNet**: Haowen Deng, et al. "PPF-FoldNet: Unsupervised Learnning of Rotation Invariant 3D Local Descriptors" In 2018 ECCV
 
 ## GNN
 * Peter W. Battaglia, et al. "Relational inductive biases, deep learning, and graph networks" arXiv: 1806.01261
@@ -98,6 +99,8 @@ Reading list on deep learning.
 ## NLP
 
 * **Multi Agent** :"MULTI-AGENT DUAL LEARNING" In ICLR 2019
+
+  
 
   
 
