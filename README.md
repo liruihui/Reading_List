@@ -91,6 +91,7 @@ Reading list on deep learning.
 * **P2PNet**: KANGXUE YIN, et al."P2P-NET: Bidirectional Point Displacement Net for Shape Transform" In 2018 Siggraph
 * **POINTCLEANNET**: Marie-Julie Rakotosaona, et al. "POINTCLEANNET: Learning to Denoise and Remove Outliers from Dense Point Clouds" arXiv: 1901.01060 
 * **PPF-FoldNet**: Haowen Deng, et al. "PPF-FoldNet: Unsupervised Learnning of Rotation Invariant 3D Local Descriptors" In 2018 ECCV
+* **PPPU**: Wang Yifan, et al. "Patch-based Progressive 3D Point Set Upsampling " arXiv:1811.11286
 
 ## GNN
 * Peter W. Battaglia, et al. "Relational inductive biases, deep learning, and graph networks" arXiv: 1806.01261
