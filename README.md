@@ -102,10 +102,3 @@ Reading list on deep learning.
 ## NLP
 
 * **Multi Agent** :"MULTI-AGENT DUAL LEARNING" In ICLR 2019
-
-  
-
-  
-
-
-
