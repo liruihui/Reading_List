@@ -25,6 +25,7 @@ Reading list on deep learning.
 * **PointCNN**: Yangyan Li, et al. "PointCNN: Convolution On X-Transformed Points". In NIPS 2018 
 * **PointWeb**: Hengshuang Zhao, et al. "PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing"  In CVPR 2019
 * **Point-Capsule**: Yongheng Zhao, et al. "3D Point-Capsule Networks" arXiv:1812.10775
+* **CPL**: Ehsan Nezhadarya, et al. "Adaptive Hierarchical Down-Sampling for Point Cloud Classification"  arXiv:1904.08506
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014.  
