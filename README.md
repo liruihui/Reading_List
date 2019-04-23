@@ -20,7 +20,11 @@ Reading list on deep learning.
 * **PPF-FoldNet**: Haowen Deng, et al. "PPF-FoldNet: Unsupervised Learnning of Rotation Invariant 3D Local Descriptors" In 2018 ECCV
 * **PPPU**: Wang Yifan, et al. "Patch-based Progressive 3D Point Set Upsampling " In 2019 CVPR
 * **LOS**: Oren Dovrat, et al. "Learning to Sample" In 2019 CVPR
-*   **PCC**: Xuelin Chen, et al. "Unpaired Point Cloud Completion on Real Scans using Adversarial Training" arXiv:1904.00069
+* **PCC**: Xuelin Chen, et al. "Unpaired Point Cloud Completion on Real Scans using Adversarial Training" arXiv:1904.00069
+* **PointConv**: Wenxuan Wu, et al. "PointConv: Deep Convolutional Networks on 3D Point Clouds". In CVPR 2019 
+* **PointCNN**: Yangyan Li, et al. "PointCNN: Convolution On X-Transformed Points". In NIPS 2018
+* **PointWeb**: Hengshuang Zhao, et al. "PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing"  In CVPR 2019
+* **Point-Capsule**: Yongheng Zhao, et al. "3D Point-Capsule Networks" arXiv:1812.10775
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014.  
