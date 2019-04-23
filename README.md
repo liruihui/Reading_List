@@ -21,14 +21,14 @@ Reading list on deep learning.
 * **PPPU**: Wang Yifan, et al. "Patch-based Progressive 3D Point Set Upsampling " In 2019 CVPR
 * **L2S**: Oren Dovrat, et al. "Learning to Sample" In 2019 CVPR
 * **PCC**: Xuelin Chen, et al. "Unpaired Point Cloud Completion on Real Scans using Adversarial Training" arXiv:1904.00069
-* **PointConv**: Wenxuan Wu, et al. "PointConv: Deep Convolutional Networks on 3D Point Clouds". In CVPR 2019 
-* **PointCNN**: Yangyan Li, et al. "PointCNN: Convolution On X-Transformed Points". In NIPS 2018 
-* **PointWeb**: Hengshuang Zhao, et al. "PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing"  In CVPR 2019
+* **PointConv**: Wenxuan Wu, et al. "PointConv: Deep Convolutional Networks on 3D Point Clouds". In 2019 CVPR 
+* **PointCNN**: Yangyan Li, et al. "PointCNN: Convolution On X-Transformed Points". In 2018 NIPS 
+* **PointWeb**: Hengshuang Zhao, et al. "PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing"  In 2019 CVPR 
 * **Point-Capsule**: Yongheng Zhao, et al. "3D Point-Capsule Networks" arXiv:1812.10775
 * **CPL**: Ehsan Nezhadarya, et al. "Adaptive Hierarchical Down-Sampling for Point Cloud Classification"  arXiv:1904.08506 
 
 ## Image GAN
-* **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In NIPS. 2014.  
+* **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
 * **cGAN**: Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). 
 
