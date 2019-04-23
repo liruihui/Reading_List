@@ -19,7 +19,7 @@ Reading list on deep learning.
 * **PPFNet**: Haowen Deng, et al. "PPFNet: Global Context Aware Local Features for Robust 3D Point Matching" In 2018 CVPR
 * **PPF-FoldNet**: Haowen Deng, et al. "PPF-FoldNet: Unsupervised Learnning of Rotation Invariant 3D Local Descriptors" In 2018 ECCV
 * **PPPU**: Wang Yifan, et al. "Patch-based Progressive 3D Point Set Upsampling " In 2019 CVPR
-* **LOS**: Oren Dovrat, et al. "Learning to Sample" In 2019 CVPR
+* **L2S**: Oren Dovrat, et al. "Learning to Sample" In 2019 CVPR
 * **PCC**: Xuelin Chen, et al. "Unpaired Point Cloud Completion on Real Scans using Adversarial Training" arXiv:1904.00069
 * **PointConv**: Wenxuan Wu, et al. "PointConv: Deep Convolutional Networks on 3D Point Clouds". In CVPR 2019 
 * **PointCNN**: Yangyan Li, et al. "PointCNN: Convolution On X-Transformed Points". In NIPS 2018 
