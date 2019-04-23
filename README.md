@@ -22,7 +22,7 @@ Reading list on deep learning.
 * **LOS**: Oren Dovrat, et al. "Learning to Sample" In 2019 CVPR
 * **PCC**: Xuelin Chen, et al. "Unpaired Point Cloud Completion on Real Scans using Adversarial Training" arXiv:1904.00069
 * **PointConv**: Wenxuan Wu, et al. "PointConv: Deep Convolutional Networks on 3D Point Clouds". In CVPR 2019 
-* **PointCNN**: Yangyan Li, et al. "PointCNN: Convolution On X-Transformed Points". In NIPS 2018
+* **PointCNN**: Yangyan Li, et al. "PointCNN: Convolution On X-Transformed Points". In NIPS 2018 
 * **PointWeb**: Hengshuang Zhao, et al. "PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing"  In CVPR 2019
 * **Point-Capsule**: Yongheng Zhao, et al. "3D Point-Capsule Networks" arXiv:1812.10775
 
