@@ -4,9 +4,9 @@ Reading list on deep learning.
 ***
 
 ## 3D GAN && PointCloud
-**PointNet**:Charles R. Qi, et al. "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" In 2017 CVPR
-**PointNet++**:Charles R. Qi, et al. "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space" In 2017 NIPS
-**FrustumNet**:Charles R. Qi, et al. "Frustum PointNets for 3D Object Detection from RGB-D Data" In 2018 CVPR
+* **PointNet**:Charles R. Qi, et al. "PointNet: Deep Learning on Point Sets for 3D Classification * and Segmentation" In 2017 CVPR
+* **PointNet++**:Charles R. Qi, et al. "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space" In 2017 NIPS
+* **FrustumNet**:Charles R. Qi, et al. "Frustum PointNets for 3D Object Detection from RGB-D Data" In 2018 CVPR
 * **3D-GAN**: Jiajun Wu, et al."Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling" In 2016 NIPS
 * **IW-GAN**:Edward J. Smith, et al. "Improved Adversarial Systems for 3D Object Generation and Reconstruction" arXiv:1707.09557. 
 * **RecGAN**: Bo Yang, et al. "3D Object Reconstruction from a Single Depth View with Adversarial Learning" In 2017 ICCV workshop
