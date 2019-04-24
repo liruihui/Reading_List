@@ -32,7 +32,10 @@ Reading list on deep learning.
 * **PCAN**: Wenxiao Zhang, et al.  "PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval" In 2019 CVPR
 * **PN_VLAD**: Mikaela Angelina Uy, et al. "PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition" In 2018 CVPR
 * **RS-CNN**: Yongcheng Liu, et al. "Relation-Shape Convolutional Neural Network for Point Cloud Analysis" In 2019 CVPR
-* **GPC**:Chong Xiang, et al. "Generating 3D Adversarial Point Clouds" In 2019 CVPR
+* **GPC**: Chong Xiang, et al. "Generating 3D Adversarial Point Clouds" In 2019 CVPR
+* **SO-NET**: Jiaxin Li, et al. "SO-Net: Self-Organizing Network for Point Cloud Analysis" In 2018 CVPR
+* **PU-Net**: Lequan Yu, et al. "PU-Net: Point Cloud Upsampling Network" In 2018 CVPR
+* **EC-Net**: Lequan Yu, et al. "EC-Net: an Edge-aware Point set Consolidation Network" In 2018 ECCV
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
