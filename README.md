@@ -36,6 +36,7 @@ Reading list on deep learning.
 * **SO-NET**: Jiaxin Li, et al. "SO-Net: Self-Organizing Network for Point Cloud Analysis" In 2018 CVPR
 * **PU-Net**: Lequan Yu, et al. "PU-Net: Point Cloud Upsampling Network" In 2018 CVPR
 * **EC-Net**: Lequan Yu, et al. "EC-Net: an Edge-aware Point set Consolidation Network" In 2018 ECCV
+* **LSGC**: Chu Wang, et al. "Local Spectral Graph Convolution for Point Set Feature Learning" In 2018 ECCV
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
