@@ -110,7 +110,9 @@ Reading list on deep learning.
 
 * **InstaGAN**: Sangwoo Mo, et al. "INSTANCE-AWARE IMAGE-TO-IMAGE TRANSLATION " In 2019 ICLR
 
-* **RGAN**: Alexia Jolicoeur-Martineau. "The relativistic discriminator: a key element missing from standard GAN" In 2019 ICLR
+* **RGAN**: Alexia Jolicoeur-Martineau, et al. "The relativistic discriminator: a key element missing from standard GAN" In 2019 ICLR
+* **Pixel-Shuffer**: Wenzhe Shi, et al. "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network" In CVPR 2016
+* **Degradation GAN**: Adrian Bulat et al."To learn image super-resolution, use a GAN to learn how to do image degradation first." In ECCV 2018
 
 
 
