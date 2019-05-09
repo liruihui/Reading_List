@@ -38,6 +38,7 @@ Reading list on deep learning.
 * **EC-Net**: Lequan Yu, et al. "EC-Net: an Edge-aware Point set Consolidation Network" In 2018 ECCV
 * **LSGC**: Chu Wang, et al. "Local Spectral Graph Convolution for Point Set Feature Learning" In 2018 ECCV
 * **Gconv**: Diego Valsesia, et al. " Learning Localized Generative Models for 3D Point Clouds via Graph Convolution" In 2019 ICLR
+* **Scan2Mesh**: Angela Dai, et al. "Scan2Mesh: From Unstructured Range Scans to 3D Meshes." In 2019 CVPR
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
