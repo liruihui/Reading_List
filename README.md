@@ -74,6 +74,8 @@ Reading list on deep learning.
 
 * **Scan2Mesh**: Angela Dai, et al. "Scan2Mesh: From Unstructured Range Scans to 3D Meshes." In 2019 CVPR
 
+* **ContrastNet**: Ling Zhang, et al. "Unsupervised Feature Learning for Point Cloud by Contrasting and Clustering With Graph Convolutional Neural Network"  arXiv:1904.12359 
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
