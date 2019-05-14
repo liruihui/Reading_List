@@ -76,6 +76,8 @@ Reading list on deep learning.
 
 * **ContrastNet**: Ling Zhang, et al. "Unsupervised Feature Learning for Point Cloud by Contrasting and Clustering With Graph Convolutional Neural Network"  arXiv:1904.12359 
 
+* **VoteNet**: Charles R. Qi, et al. "Deep Hough Voting for 3D Object Detection in Point Clouds"  arXiv:1904.09664 
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
