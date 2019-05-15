@@ -13,7 +13,7 @@ Reading list on deep learning.
 * **3D-GAN**: Jiajun Wu, et al."Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling" In 2016 NIPS
 
 * **IW-GAN**:Edward J. Smith, et al. "Improved Adversarial Systems for 3D Object Generation and Reconstruction" arXiv:1707.09557.
- 
+
 * **RecGAN**: Bo Yang, et al. "3D Object Reconstruction from a Single Depth View with Adversarial Learning" In 2017 ICCV workshop
 
 * **GAL**: Jiang Li, et al. "GAL: Geometric Adversarial Loss for Single-View 3D-Object Reconstruction" In 2018 ECCV
@@ -79,6 +79,8 @@ Reading list on deep learning.
 * **VoteNet**: Charles R. Qi, et al. "Deep Hough Voting for 3D Object Detection in Point Clouds"  arXiv:1904.09664 
 
 * **StructureNet**: Zhidong Liang, et al. "3D Graph Embedding Learning with a Structure-aware Loss Function for Point Cloud Semantic Instance Segmentation" arXiv:1902.05247
+
+* **DeepGCN**: Guohao Li, et al. "Can GCNs Go as Deep as CNNs?" arXiv:1904.03751
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
@@ -154,7 +156,7 @@ Reading list on deep learning.
 * **RGAN**: Alexia Jolicoeur-Martineau, et al. "The relativistic discriminator: a key element missing from standard GAN" In 2019 ICLR
 
 * **Pixel-Shuffer**: Wenzhe Shi, et al. "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network" In CVPR 2016
- 
+
 * **Degradation GAN**: Adrian Bulat et al."To learn image super-resolution, use a GAN to learn how to do image degradation first." In ECCV 2018
 
 
