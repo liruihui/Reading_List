@@ -82,6 +82,8 @@ Reading list on deep learning.
 
 * **DeepGCN**: Guohao Li, et al. "Can GCNs Go as Deep as CNNs?" arXiv:1904.03751
 
+* **RGCNN**: Gusi Te, et al. "RGCNN: Regularized Graph CNN for Point Cloud Segmentation" In 2018 ACM MM
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
