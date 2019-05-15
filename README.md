@@ -78,6 +78,8 @@ Reading list on deep learning.
 
 * **VoteNet**: Charles R. Qi, et al. "Deep Hough Voting for 3D Object Detection in Point Clouds"  arXiv:1904.09664 
 
+* **StructureNet**: Zhidong Liang, et al. "3D Graph Embedding Learning with a Structure-aware Loss Function for Point Cloud Semantic Instance Segmentation" arXiv:1902.05247
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
