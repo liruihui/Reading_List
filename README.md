@@ -84,6 +84,8 @@ Reading list on deep learning.
 
 * **RGCNN**: Gusi Te, et al. "RGCNN: Regularized Graph CNN for Point Cloud Segmentation" In 2018 ACM MM
 
+* **SRN**: Yueqi Duan, et al. "Structural Relational Reasoning of Point Clouds" In 2019 CVPR
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
