@@ -86,6 +86,8 @@ Reading list on deep learning.
 
 * **SRN**: Yueqi Duan, et al. "Structural Relational Reasoning of Point Clouds" In 2019 CVPR
 
+* **Tree-GAN**: Dong Wook Shu, et al. "3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions"  arXiv:1905.06292
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
