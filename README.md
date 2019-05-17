@@ -88,6 +88,8 @@ Reading list on deep learning.
 
 * **Tree-GAN**: Dong Wook Shu, et al. "3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions"  arXiv:1905.06292
 
+* **KPConv**: Hugues Thomas, et al. “KPConv: Flexible and Deformable Convolution for Point Clouds” arXiv:1904.08889
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
