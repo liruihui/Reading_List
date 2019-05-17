@@ -90,6 +90,8 @@ Reading list on deep learning.
 
 * **KPConv**: Hugues Thomas, et al. “KPConv: Flexible and Deformable Convolution for Point Clouds” arXiv:1904.08889
 
+* **PointWise**:Matan Shoef, et al.  "PointWise: An Unsupervised Point-wise Feature Learning Network" arXiv:1901.04544
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
