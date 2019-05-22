@@ -92,6 +92,8 @@ Reading list on deep learning.
 
 * **PointWise**:Matan Shoef, et al.  "PointWise: An Unsupervised Point-wise Feature Learning Network" arXiv:1901.04544
 
+* **GAPNet**: Can Chen, et al. "GAPNet: Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud" 
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
