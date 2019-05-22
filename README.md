@@ -94,7 +94,7 @@ Reading list on deep learning.
 
 * **GAPNet**: Can Chen, et al. "GAPNet: Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud" arXiv:1905.08705 
 
-* **GACNet**: Can Chen, et al. "Graph Attention Convolution for Point Cloud Segmentation" In CVPR 2019
+* **GACNet**:  , et al. "Graph Attention Convolution for Point Cloud Segmentation" In CVPR 2019
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
