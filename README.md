@@ -96,6 +96,8 @@ Reading list on deep learning.
 
 * **GACNet**:  , et al. "Graph Attention Convolution for Point Cloud Segmentation" In CVPR 2019
 
+* **DensePCR**: Priyanka Mandikal, et al. "Dense 3D Point Cloud Reconstruction Using a Deep Pyramid Network" arXiv:1901.08906 
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
