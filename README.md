@@ -98,6 +98,8 @@ Reading list on deep learning.
 
 * **DensePCR**: Priyanka Mandikal, et al. "Dense 3D Point Cloud Reconstruction Using a Deep Pyramid Network" arXiv:1901.08906 
 
+* **G-NPC**: Xianzhi Li, et al. "Non-Local Low-Rank Normal Filtering for Mesh Denoising" In 2018 PG
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
