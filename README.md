@@ -100,6 +100,8 @@ Reading list on deep learning.
 
 * **G-NPC**: Xianzhi Li, et al. "Non-Local Low-Rank Normal Filtering for Mesh Denoising" In 2018 PG
 
+* **AGCN**: Zhuyang Xie, et al. "Point Clouds Learning with Attention-based Graph Convolution Networks" arXiv: 1905.13445 
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
