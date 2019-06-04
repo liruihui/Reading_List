@@ -102,6 +102,8 @@ Reading list on deep learning.
 
 * **AGCN**: Zhuyang Xie, et al. "Point Clouds Learning with Attention-based Graph Convolution Networks" arXiv: 1905.13445 
 
+* **MeshNet**: Yutong Feng, et al. "MeshNet: Mesh Neural Network for 3D Shape Representation" arXiv: 1811.11424 
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
