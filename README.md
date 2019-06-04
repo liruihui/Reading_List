@@ -179,6 +179,8 @@ Reading list on deep learning.
 
 * **Degradation GAN**: Adrian Bulat et al."To learn image super-resolution, use a GAN to learn how to do image degradation first." In ECCV 2018
 
+* **DANet**: Jun Fu et al."Dual Attention Network for Scene Segmentation." In CVPR 2019
+
 
 
 ## GNN
