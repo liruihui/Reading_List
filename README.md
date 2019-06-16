@@ -183,6 +183,7 @@ Reading list on deep learning.
 
 * **DANet**: Jun Fu et al."Dual Attention Network for Scene Segmentation." In CVPR 2019
 
+* **TopNet**: Lyne P. Tchapmi et al."TopNet: Structural Point Cloud Decoder." In CVPR 2019
 
 
 ## GNN
