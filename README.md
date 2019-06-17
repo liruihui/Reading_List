@@ -145,7 +145,7 @@ Reading list on deep learning.
 
 * **GDWTC**: Wonwoong Cho, et al. "Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation" arXiv:1812.09912. 
 
-* **Latent Filter GAN**: Yazeed Alharbi, et al."Latent Filter Scaling for Multimodal Unsupervised Image-to-Image Translation." arXiv:1812.09877.
+* **Latent Filter GAN**: Yazeed Alharbi, et al."Latent Filter Scaling for Multimodal Unsupervised Image-to-Image Translation." In CVPR 2019.
 
 * **CariGAN**: KAIDI CAO, et al. "CariGANs: Unpaired Photo-to-Caricature Translation."  In 2018 Siggraph. 
 
