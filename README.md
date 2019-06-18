@@ -187,6 +187,8 @@ Reading list on deep learning.
 
 * **DANet**: Jun Fu et al."Dual Attention Network for Scene Segmentation." In CVPR 2019
 
+* **FineGAN**: Krishna Kumar Singh et al."FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery." In CVPR 2019
+
 
 
 
