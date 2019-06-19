@@ -185,9 +185,13 @@ Reading list on deep learning.
 
 * **Degradation GAN**: Adrian Bulat et al."To learn image super-resolution, use a GAN to learn how to do image degradation first." In ECCV 2018
 
-* **DANet**: Jun Fu et al."Dual Attention Network for Scene Segmentation." In CVPR 2019
+* **DANet**: Jun Fu et al. "Dual Attention Network for Scene Segmentation." In CVPR 2019
 
-* **FineGAN**: Krishna Kumar Singh et al."FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery." In CVPR 2019
+* **FineGAN**: Krishna Kumar Singh et al. "FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery." In CVPR 2019
+
+* **TransGaGa**: Wayne Wu et al. "TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation." In CVPR 2019
+
+* **Deblur-GAN**: Boyu Lu et al. "Unsupervised Domain-Specific Deblurring via Disentangled Representations." In CVPR 2019
 
 
 
