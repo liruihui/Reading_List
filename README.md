@@ -108,6 +108,9 @@ Reading list on deep learning.
 
 * **Nesti-Net**: Yizhak Ben-Shabat et al."Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds using Convolutional Neural Networks." In CVPR 2019
 
+* **LOGAN**: Kangxue Yin et al."LOGAN: Unpaired Shape Transform in Latent Overcomplete Space." In Siggraph Asia 2019
+
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
