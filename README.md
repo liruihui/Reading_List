@@ -110,6 +110,8 @@ Reading list on deep learning.
 
 * **LOGAN**: Kangxue Yin et al."LOGAN: Unpaired Shape Transform in Latent Overcomplete Space." In Siggraph Asia 2019
 
+* **PointFlow**: Guandao Yang et al. "PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flow" In ICCV 2019
+
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
