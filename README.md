@@ -198,6 +198,8 @@ Reading list on deep learning.
 
 * **Deblur-GAN**: Boyu Lu et al. "Unsupervised Domain-Specific Deblurring via Disentangled Representations." In CVPR 2019
 
+* **NoiseFlow**: Abdelrahman Abdelhamed et al. "Noise Flow: Noise Modeling with Conditional Normalizing Flows." arXiv:1908.08453
+
 
 
 
