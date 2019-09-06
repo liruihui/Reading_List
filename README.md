@@ -114,6 +114,9 @@ Reading list on deep learning.
 
 * **InterpCNN**: Jiageng Mao et al. "Interpolated Convolutional Networks for 3D Point Cloud Understanding" In ICCV 2019
 
+* **Point-Edge**: Li Jiang et al. "Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation" In ICCV 2019
+
+
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
