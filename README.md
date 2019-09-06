@@ -112,6 +112,8 @@ Reading list on deep learning.
 
 * **PointFlow**: Guandao Yang et al. "PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flow" In ICCV 2019
 
+* **InterpCNN**: Jiageng Mao et al. "Interpolated Convolutional Networks for 3D Point Cloud Understanding" In ICCV 2019
+
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
