@@ -116,6 +116,7 @@ Reading list on deep learning.
 
 * **Point-Edge**: Li Jiang et al. "Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation" In ICCV 2019
 
+* **RI-Conv**: Zhiyuan Zhang et al. "Rotation Invariant Convolutions for 3D Point Clouds Deep Learning" In CVPR 2019
 
 
 ## Image GAN
