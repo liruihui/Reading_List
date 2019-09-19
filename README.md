@@ -120,6 +120,7 @@ Reading list on deep learning.
 
 * **Shape Unicode**: Sanjeev Muralikrishnan et al. "Shape Unicode: A Unified Shape Representation" In CVPR 2019
 
+* **BPS**: Sergey Prokudin et al. "Efficient Learning on Point Clouds with Basis Point Sets." In ICCV 2019
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
