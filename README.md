@@ -208,11 +208,14 @@ Reading list on deep learning.
 
 * **NoiseFlow**: Abdelrahman Abdelhamed et al. "Noise Flow: Noise Modeling with Conditional Normalizing Flows." arXiv:1908.08453
 
+* **DMIT**: Xiaoming Yu et al. "Noise Flow: Noise Modeling with Conditional Normalizing Flows." In NIPS 2019
+
+
 
 
 
 ## GNN
-* Peter W. Battaglia, et al. "Relational inductive biases, deep learning, and graph networks" arXiv: 1806.01261
+* Peter W. Battaglia, et al. "Multi-mapping Image-to-Image Translation via Learning Disentanglement" arXiv: 1806.01261
 
 
 ## NLP
