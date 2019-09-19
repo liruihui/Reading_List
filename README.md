@@ -118,6 +118,8 @@ Reading list on deep learning.
 
 * **RI-Conv**: Zhiyuan Zhang et al. "Rotation Invariant Convolutions for 3D Point Clouds Deep Learning" In CVPR 2019
 
+* **Shape Unicode**: Sanjeev Muralikrishnan et al. "Shape Unicode: A Unified Shape Representation" In CVPR 2019
+
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
