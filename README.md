@@ -124,6 +124,8 @@ Reading list on deep learning.
 
 * **ShellNet**: Zhiyuan Zhang et al. "ShellNet: Efficient Point Cloud Convolutional Neural Networks using Concentric Shells Statistics."  In ICCV 2019
 
+* **SS-NET**: Jonathan Sauder et al."Self-Supervised Deep Learning on Point Clouds by Reconstructing Space." In NIPS 2019
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
