@@ -88,7 +88,7 @@ Reading list on deep learning.
 
 * **Tree-GAN**: Dong Wook Shu, et al. "3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions"  arXiv:1905.06292
 
-* **KPConv**: Hugues Thomas, et al. “KPConv: Flexible and Deformable Convolution for Point Clouds” arXiv:1904.08889
+* **KPConv**: Hugues Thomas, et al. “KPConv: Flexible and Deformable Convolution for Point Clouds” In ICCV 2019
 
 * **PointWise**:Matan Shoef, et al.  "PointWise: An Unsupervised Point-wise Feature Learning Network" arXiv:1901.04544
 
@@ -121,6 +121,8 @@ Reading list on deep learning.
 * **Shape Unicode**: Sanjeev Muralikrishnan et al. "Shape Unicode: A Unified Shape Representation" In CVPR 2019
 
 * **BPS**: Sergey Prokudin et al. "Efficient Learning on Point Clouds with Basis Point Sets." In ICCV 2019
+
+* **ShellNet**: Zhiyuan Zhang et al. "ShellNet: Efficient Point Cloud Convolutional Neural Networks using Concentric Shells Statistics."  In ICCV 2019
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
