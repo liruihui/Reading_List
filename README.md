@@ -94,7 +94,7 @@ Reading list on deep learning.
 
 * **GAPNet**: Can Chen, et al. "GAPNet: Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud" arXiv:1905.08705 
 
-* **GACNet**:  , et al. "Graph Attention Convolution for Point Cloud Segmentation" In CVPR 2019
+* **GACNet**: Lei Wang, et al. "Graph Attention Convolution for Point Cloud Segmentation" In CVPR 2019
 
 * **DensePCR**: Priyanka Mandikal, et al. "Dense 3D Point Cloud Reconstruction Using a Deep Pyramid Network" arXiv:1901.08906 
 
