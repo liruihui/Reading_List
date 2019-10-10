@@ -215,6 +215,7 @@ Reading list on deep learning.
 
 * **DMIT**: Xiaoming Yu et al. "Multi-mapping Image-to-Image Translation via Learning Disentanglement." In NIPS 2019
 
+* **Stylized-ImageNet**:Robert Geirhos wt al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." In ICLR 2019
 
 
 
