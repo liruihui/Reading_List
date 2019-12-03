@@ -215,15 +215,16 @@ Reading list on deep learning.
 
 * **DMIT**: Xiaoming Yu et al. "Multi-mapping Image-to-Image Translation via Learning Disentanglement." In NIPS 2019
 
-* **Stylized-ImageNet**:Robert Geirhos et al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." In ICLR 2019
+* **Stylized-ImageNet**: Robert Geirhos et al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." In ICLR 2019
 
-* **InvertGray**:Xia, Menghan et al. "Invertible grayscale." In SIGGRAPH Asia 2018
+* **InvertGray**: Xia, Menghan et al. "Invertible grayscale." In SIGGRAPH Asia 2018
 
-* **DegradeSR**:Bulat, Adrian et al. "To learn image super-resolution, use a GAN to learn how to do image degradation first." In ECCV 2018
+* **DegradeSR**: Bulat, Adrian et al. "To learn image super-resolution, use a GAN to learn how to do image degradation first." In ECCV 2018
 
 ## Network
-* **EfficientDet**:Tan, Mingxing et al. "EfficientDet: Scalable and Efficient Object Detection." arXiv: 1911.09070
+* **EfficientDet**: Tan, Mingxing et al. "EfficientDet: Scalable and Efficient Object Detection." arXiv: 1911.09070
 
+* **STDL**: Peng Zhou et al. "Scale-Transferrable Object Detection." In CVPR 2018.
 
 ## GNN
 * Peter W. Battaglia, et al. "Relational inductive biases, deep learning, and graph networks." arXiv: 1806.01261
