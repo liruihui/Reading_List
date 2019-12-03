@@ -76,7 +76,7 @@ Reading list on deep learning.
 
 * **ContrastNet**: Ling Zhang, et al. "Unsupervised Feature Learning for Point Cloud by Contrasting and Clustering With Graph Convolutional Neural Network"  arXiv:1904.12359 
 
-* **VoteNet**: Charles R. Qi, et al. "Deep Hough Voting for 3D Object Detection in Point Clouds"  arXiv:1904.09664 
+* **VoteNet**: Charles R. Qi, et al. "Deep Hough Voting for 3D Object Detection in Point Clouds"  In ICCV 2019
 
 * **StructureNet**: Zhidong Liang, et al. "3D Graph Embedding Learning with a Structure-aware Loss Function for Point Cloud Semantic Instance Segmentation" arXiv:1902.05247
 
@@ -215,10 +215,11 @@ Reading list on deep learning.
 
 * **DMIT**: Xiaoming Yu et al. "Multi-mapping Image-to-Image Translation via Learning Disentanglement." In NIPS 2019
 
-* **Stylized-ImageNet**:Robert Geirhos wt al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." In ICLR 2019
+* **Stylized-ImageNet**:Robert Geirhos et al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." In ICLR 2019
 
+* **Stylized-ImageNet**:Robert Geirhos et al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." In ICLR 2019
 
-
+* **InvertGray**:Xia, Menghan et al. "Invertible grayscale." In SIGGRAPH Asia 2018
 
 ## GNN
 * Peter W. Battaglia, et al. "Relational inductive biases, deep learning, and graph networks." arXiv: 1806.01261
