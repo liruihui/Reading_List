@@ -217,9 +217,9 @@ Reading list on deep learning.
 
 * **Stylized-ImageNet**:Robert Geirhos et al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." In ICLR 2019
 
-* **Stylized-ImageNet**:Robert Geirhos et al. "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness." In ICLR 2019
-
 * **InvertGray**:Xia, Menghan et al. "Invertible grayscale." In SIGGRAPH Asia 2018
+
+* **DegradeSR**:Bulat, Adrian et al. "To learn image super-resolution, use a GAN to learn how to do image degradation first." In ECCV 2018
 
 ## GNN
 * Peter W. Battaglia, et al. "Relational inductive biases, deep learning, and graph networks." arXiv: 1806.01261
