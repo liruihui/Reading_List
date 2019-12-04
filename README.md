@@ -126,6 +126,10 @@ Reading list on deep learning.
 
 * **SS-NET**: Jonathan Sauder et al."Self-Supervised Deep Learning on Point Clouds by Reconstructing Space." In NIPS 2019
 
+* **Attentional EdgeConv**: Qiu Shi et al."Geometric Feedback Network for Point Cloud Classification." arXiv preprint arXiv:1911.12885 (2019).
+
+
+
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
