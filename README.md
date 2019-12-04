@@ -128,6 +128,7 @@ Reading list on deep learning.
 
 * **Attentional EdgeConv**: Qiu Shi et al."Geometric Feedback Network for Point Cloud Classification." arXiv preprint arXiv:1911.12885 (2019).
 
+* **Morphing-Net**: Minghua Liu et al."Morphing and Sampling Network for Dense Point Cloud Completion." In AAAI 2020
 
 
 ## Image GAN
