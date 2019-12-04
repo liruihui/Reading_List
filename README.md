@@ -130,6 +130,9 @@ Reading list on deep learning.
 
 * **Morphing-Net**: Minghua Liu et al."Morphing and Sampling Network for Dense Point Cloud Completion." In AAAI 2020
 
+* **PCC-GAN**: Xuelin Chen et al."Unpaired Point Cloud Completion on Real Scans using Adversarial Training." arXiv preprint arXiv:1904.00069 (2019).
+
+
 
 ## Image GAN
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
