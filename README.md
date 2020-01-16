@@ -130,7 +130,9 @@ Reading list on deep learning.
 
 * **Morphing-Net**: Minghua Liu et al."Morphing and Sampling Network for Dense Point Cloud Completion." In AAAI 2020
 
-* **PCC-GAN**: Xuelin Chen et al."Unpaired Point Cloud Completion on Real Scans using Adversarial Training." arXiv preprint arXiv:1904.00069 (2019).
+* **PCC-GAN**: Xuelin Chen et al."Unpaired Point Cloud Completion on Real Scans using Adversarial Training." In ICML 2019.
+
+* **Point2Node**: Wenkai Han et al."Point2Node: Correlation Learning of Dynamic-Node for Point Cloud Feature Modeling." arXiv preprint arXiv:1912.10775 (2019).
 
 
 
