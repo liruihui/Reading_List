@@ -134,6 +134,7 @@ Reading list on deep learning.
 
 * **Point2Node**: Wenkai Han et al."Point2Node: Correlation Learning of Dynamic-Node for Point Cloud Feature Modeling." arXiv preprint arXiv:1912.10775 (2019).
 
+* **GS-Net**: Mingye Xu et al."Geometry Sharing Network for 3D Point Cloud Classification and Segmentation." In AAAI 2020.
 
 
 ## Image GAN
