@@ -4,7 +4,9 @@ Reading list on deep learning.
 ***
 
 ## 3D GAN && PointCloud
-* **PointNet**: Charles R. Qi, et al. "PointNet: Deep Learning on Point Sets for 3D Classification * and Segmentation" In 2017 CVPR
+* **DPAM**: Jinxian Liu, et al. "Dynamic Points Agglomeration for Hierarchical Point Sets Learning" In 2019 ICCV
+
+* **PointNet**: Charles R. Qi, et al. "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" In 2017 CVPR
 
 * **PointNet++**: Charles R. Qi, et al. "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space" In 2017 NIPS
 
