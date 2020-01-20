@@ -4,6 +4,11 @@ Reading list on deep learning.
 ***
 
 ## 3D GAN && PointCloud
+
+* **PCRNet**: Vinit Sarode, et al. "PCRNet: Point Cloud Registration Network using PointNet Encoding" arXiv:1908.07906.
+
+* **PointNetLK**: Yasuhiro Aoki, et al. "PointNetLK: Robust & Efficient Point Cloud Registration using PointNet" In 2019 CVPR
+
 * **DPAM**: Jinxian Liu, et al. "Dynamic Points Agglomeration for Hierarchical Point Sets Learning" In 2019 ICCV
 
 * **PointNet**: Charles R. Qi, et al. "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" In 2017 CVPR
