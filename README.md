@@ -145,6 +145,9 @@ Reading list on deep learning.
 
 
 ## Image GAN
+
+* **StructuredGAN**: Irad Peleg, et al. "Structured GANs." arXiv:2001.05216.  
+
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
 
 * **cGAN**: Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014). 
