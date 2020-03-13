@@ -2,6 +2,8 @@
 Reading list on deep learning. 
 
 ***
+## Tutorial
+* **SSL**: Thang Luong. "Learning from Unlabeled Data".
 
 ## 3D GAN && PointCloud
 
