@@ -5,6 +5,8 @@ Reading list on deep learning.
 
 ## 3D GAN && PointCloud
 
+* **PF-Net**: Zitian Huang, et al. "PF-Net: Point Fractal Network for 3D Point Cloud Completion" arXiv:2003.00410.
+
 * **PCRNet**: Vinit Sarode, et al. "PCRNet: Point Cloud Registration Network using PointNet Encoding" arXiv:1908.07906.
 
 * **PointNetLK**: Yasuhiro Aoki, et al. "PointNetLK: Robust & Efficient Point Cloud Registration using PointNet" In 2019 CVPR
