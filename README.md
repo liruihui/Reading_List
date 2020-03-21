@@ -150,6 +150,8 @@ Reading list on deep learning.
 
 ## Image GAN
 
+* **MSG-GAN**: Animesh Karnewar, et al. "MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks." In CVPR 2020.
+
 * **StructuredGAN**: Irad Peleg, et al. "Structured GANs." arXiv:2001.05216.  
 
 * **GAN**: Goodfellow, Ian, et al. "Generative adversarial nets." In 2014 NIPS .  
