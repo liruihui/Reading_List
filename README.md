@@ -150,6 +150,8 @@ Reading list on deep learning.
 
 ## Image GAN
 
+* **DeepSnake**: Sida Peng et al."Deep Snake for Real-Time Instance Segmentation." In CVPR 2020
+
 * **DRN**: Guo, Yong, et al. "Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution." In CVPR 2020.
 
 * **MSG-GAN**: Animesh Karnewar, et al. "MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks." In CVPR 2020.
