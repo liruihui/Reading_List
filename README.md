@@ -151,6 +151,9 @@ Reading list on deep learning.
 
 
 ## Image GAN
+* **Circle Loss**: Yifan Sun et al."Circle Loss: A Unified Perspective of Pair Similarity Optimization." In CVPR 2020
+
+* **DeepSnake**: Sida Peng et al."Deep Snake for Real-Time Instance Segmentation." In CVPR 2020
 
 * **DeepSnake**: Sida Peng et al."Deep Snake for Real-Time Instance Segmentation." In CVPR 2020
 
