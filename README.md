@@ -7,6 +7,8 @@ Reading list on deep learning.
 
 ## 3D GAN && PointCloud
 
+* **Scan2Mesh**: Angela Dai, et al. "Scan2Mesh: From Unstructured Range Scans to 3D Meshes" In ICCV 2019
+
 * **PF-Net**: Zitian Huang, et al. "PF-Net: Point Fractal Network for 3D Point Cloud Completion" arXiv:2003.00410.
 
 * **PCRNet**: Vinit Sarode, et al. "PCRNet: Point Cloud Registration Network using PointNet Encoding" arXiv:1908.07906.
