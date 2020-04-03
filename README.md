@@ -5,7 +5,7 @@ Reading list on deep learning.
 ## Tutorial
 * **SSL**: Thang Luong. "Learning from Unlabeled Data".
 
-## 3D GAN && PointCloud
+## 3D Mesh && PointCloud
 
 * **DCM-Net**: Jonas Schult, et al. "DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes" In CVPR2020
 
@@ -152,7 +152,8 @@ Reading list on deep learning.
 * **GS-Net**: Mingye Xu et al."Geometry Sharing Network for 3D Point Cloud Classification and Segmentation." In AAAI 2020.
 
 
-## Image GAN
+## 2D Image
+
 * **Circle Loss**: Yifan Sun et al."Circle Loss: A Unified Perspective of Pair Similarity Optimization." In CVPR 2020
 
 * **DeepSnake**: Sida Peng et al."Deep Snake for Real-Time Instance Segmentation." In CVPR 2020
