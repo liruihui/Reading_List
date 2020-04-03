@@ -7,6 +7,8 @@ Reading list on deep learning.
 
 ## 3D GAN && PointCloud
 
+* **DCM-Net**: Jonas Schult, et al. "DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes" In CVPR2020
+
 * **Scan2Mesh**: Angela Dai, et al. "Scan2Mesh: From Unstructured Range Scans to 3D Meshes" In ICCV 2019
 
 * **PF-Net**: Zitian Huang, et al. "PF-Net: Point Fractal Network for 3D Point Cloud Completion" arXiv:2003.00410.
