@@ -7,6 +7,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **DCM-Net**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033
+
 * **DCM-Net**: Jonas Schult, et al. "DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes" In CVPR2020
 
 * **Scan2Mesh**: Angela Dai, et al. "Scan2Mesh: From Unstructured Range Scans to 3D Meshes" In ICCV 2019
