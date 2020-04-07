@@ -7,6 +7,9 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+
+* **DetDA**: Martin Hahner, et al. "Quantifying Data Augmentation for LiDAR based 3D Object Detection" arXiv:2004.01643
+
 * **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033
 
 * **DCM-Net**: Jonas Schult, et al. "DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes" In CVPR2020
