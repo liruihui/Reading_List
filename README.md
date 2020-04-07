@@ -8,6 +8,8 @@ Reading list on deep learning.
 ## 3D Mesh && PointCloud
 
 
+* **PointGroup**: Jiang Li, et al. "PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation" In CVPR2020
+
 * **DetDA**: Martin Hahner, et al. "Quantifying Data Augmentation for LiDAR based 3D Object Detection" arXiv:2004.01643
 
 * **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033
