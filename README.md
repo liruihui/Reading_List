@@ -7,6 +7,15 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **Mesh R-CNN**: Georgia Gkioxari  et al. "Mesh R-CNN."  In ICCV 2019
+
+* **TMNet**: Junyi Pan  et al. "Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks."  In ICCV 2019
+
+* **Pixel2Mesh++**: Chao Wen et al. "Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation."  In ICCV 2019
+
+* **Pixel2Mesh**: Nanyang Wang et al. "Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images."  In ECCV 2018
+
+* **Scan2Mesh**: Angela Dai, et al. "Scan2Mesh: From Unstructured Range Scans to 3D Meshes" In ICCV 2019
 
 * **PointGroup**: Jiang Li, et al. "PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation" In CVPR2020
 
@@ -15,8 +24,6 @@ Reading list on deep learning.
 * **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033
 
 * **DCM-Net**: Jonas Schult, et al. "DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes" In CVPR2020
-
-* **Scan2Mesh**: Angela Dai, et al. "Scan2Mesh: From Unstructured Range Scans to 3D Meshes" In ICCV 2019
 
 * **PF-Net**: Zitian Huang, et al. "PF-Net: Point Fractal Network for 3D Point Cloud Completion" arXiv:2003.00410.
 
@@ -160,6 +167,8 @@ Reading list on deep learning.
 
 
 ## 2D Image
+
+* **SAOL**: Ildoo Kim et al. “Spatially Attentive Output Layer for Image Classification." In CVPR 2020
 
 * **Circle Loss**: Yifan Sun et al."Circle Loss: A Unified Perspective of Pair Similarity Optimization." In CVPR 2020
 
