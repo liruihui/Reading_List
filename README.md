@@ -170,6 +170,10 @@ Reading list on deep learning.
 
 ## 2D Image
 
+
+
+* **VAE+Flow**: Xuezhe Ma1 et al. "Decoupling Global and Local Representations from/for Image Generation" arXiv: 2004.11820
+
 * **SAOL**: Ildoo Kim et al. “Spatially Attentive Output Layer for Image Classification." In CVPR 2020
 
 * **Circle Loss**: Yifan Sun et al."Circle Loss: A Unified Perspective of Pair Similarity Optimization." In CVPR 2020
