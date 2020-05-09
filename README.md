@@ -7,6 +7,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **FPConv**: Yiqun Lin et al. "FPConv: Learning Local Flattening for Point Convolution". In CVPR 2020 (CHKU SZ)
+
 * **3DStructurePoints**: Nenglun Chen et al. "Unsupervised Learning of Intrinsic Structural Representation Points". In CVPR 2020 (HKU)
 
 * **DPDist**:  Dahlia Urbach et al. "DPDist:Comparing Point Clouds Using Deep Point Cloud Distance" arXiv:2004.11784
