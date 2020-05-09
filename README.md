@@ -7,6 +7,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **3DStructurePoints**: Nenglun Chen et al. "Unsupervised Learning of Intrinsic Structural Representation Points". In CVPR 2020 (HKU)
+
 * **DPDist**:  Dahlia Urbach et al. "DPDist:Comparing Point Clouds Using Deep Point Cloud Distance" arXiv:2004.11784
 
 * **Mesh R-CNN**: Georgia Gkioxari et al. "Mesh R-CNN."  In ICCV 2019
