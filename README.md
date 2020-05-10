@@ -7,7 +7,7 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
-* **FPConv**: Xiaogang Wang et al. "Cascaded Refinement Network for Point Cloud Completion". In CVPR 2020 (NUS)
+* **Cascaded**: Xiaogang Wang et al. "Cascaded Refinement Network for Point Cloud Completion". In CVPR 2020 (NUS)
 
 * **PF-Net**: Zitian Huang, et al. "PF-Net: Point Fractal Network for 3D Point Cloud Completion" In CVPR 2020 (SJTU)
 
