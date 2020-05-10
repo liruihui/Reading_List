@@ -7,6 +7,10 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **FPConv**: Xiaogang Wang et al. "Cascaded Refinement Network for Point Cloud Completion". In CVPR 2020 (NUS)
+
+* **PF-Net**: Zitian Huang, et al. "PF-Net: Point Fractal Network for 3D Point Cloud Completion" In CVPR 2020 (SJTU)
+
 * **FPConv**: Yiqun Lin et al. "FPConv: Learning Local Flattening for Point Convolution". In CVPR 2020 (CHKU SZ)
 
 * **3DStructurePoints**: Nenglun Chen et al. "Unsupervised Learning of Intrinsic Structural Representation Points". In CVPR 2020 (HKU)
@@ -30,8 +34,6 @@ Reading list on deep learning.
 * **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033
 
 * **DCM-Net**: Jonas Schult, et al. "DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes" In CVPR2020
-
-* **PF-Net**: Zitian Huang, et al. "PF-Net: Point Fractal Network for 3D Point Cloud Completion" arXiv:2003.00410.
 
 * **PCRNet**: Vinit Sarode, et al. "PCRNet: Point Cloud Registration Network using PointNet Encoding" arXiv:1908.07906.
 
