@@ -7,6 +7,9 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+
+* **TreeGAN**: Dong Wook Shu et al. "3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions". In ICCV 2019 (CAU)
+
 * **Cascaded**: Xiaogang Wang et al. "Cascaded Refinement Network for Point Cloud Completion". In CVPR 2020 (NUS)
 
 * **PF-Net**: Zitian Huang, et al. "PF-Net: Point Fractal Network for 3D Point Cloud Completion" In CVPR 2020 (SJTU)
