@@ -7,6 +7,7 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **Grid-GCN**: Qiangeng Xu et al. "Grid-GCN for Fast and Scalable Point Cloud Learning". In CVPR 2020 (USC)
 
 * **TreeGAN**: Dong Wook Shu et al. "3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions". In ICCV 2019 (CAU)
 
