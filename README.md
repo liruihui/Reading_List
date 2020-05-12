@@ -7,6 +7,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **PointGMM**: Amir Hertz et al. "PointGMM: a Neural GMM Network for Point Clouds". In CVPR 2020 (TAU)
+
 * **GLR**: Yongming Rao et al. "Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds". In CVPR 2020 (THU)
 
 * **Grid-GCN**: Qiangeng Xu et al. "Grid-GCN for Fast and Scalable Point Cloud Learning". In CVPR 2020 (USC)
