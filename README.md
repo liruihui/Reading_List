@@ -6,6 +6,7 @@ Reading list on deep learning.
 * **SSL**: Thang Luong. "Learning from Unlabeled Data".
 
 ## 3D Mesh && PointCloud
+* **MOPS-Net**: Yue Qian et al. "MOPS-Net: A Matrix Optimization-driven Network for Task-Oriented 3D Point Cloud Downsampling" arXiv:2005.00383 (CityU)
 
 * **C-Flow**: Albert Pumarola et al. "C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds". In CVPR 2020 (Google)
 
