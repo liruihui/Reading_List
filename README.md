@@ -5,6 +5,9 @@ Reading list on deep learning.
 ## Tutorial
 * **SSL**: Thang Luong. "Learning from Unlabeled Data".
 
+## Metric learning
+* **Embedding Expansion**: Byungsoo Ko et al. "Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning" In CVPR 2020 (NAVER)
+
 ## 3D Mesh && PointCloud
 * **MOPS-Net**: Yue Qian et al. "MOPS-Net: A Matrix Optimization-driven Network for Task-Oriented 3D Point Cloud Downsampling" arXiv:2005.00383 (CityU)
 
