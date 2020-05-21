@@ -5,10 +5,17 @@ Reading list on deep learning.
 ## Tutorial
 * **SSL**: Thang Luong. "Learning from Unlabeled Data".
 
+
+## Survey
+* **3D Survey**: Ying Li et al. "Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review" arXiv:2005.09830 (Waterloo)
+
+* **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033 (NUDT)
+
 ## Metric learning
 * **Embedding Expansion**: Byungsoo Ko et al. "Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning" In CVPR 2020 (NAVER)
 
 ## 3D Mesh && PointCloud
+
 * **MOPS-Net**: Yue Qian et al. "MOPS-Net: A Matrix Optimization-driven Network for Task-Oriented 3D Point Cloud Downsampling" arXiv:2005.00383 (CityU)
 
 * **C-Flow**: Albert Pumarola et al. "C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds". In CVPR 2020 (Google)
@@ -46,8 +53,6 @@ Reading list on deep learning.
 * **PointGroup**: Jiang Li, et al. "PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation" In CVPR2020
 
 * **DetDA**: Martin Hahner, et al. "Quantifying Data Augmentation for LiDAR based 3D Object Detection" arXiv:2004.01643
-
-* **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033
 
 * **DCM-Net**: Jonas Schult, et al. "DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes" In CVPR2020
 
