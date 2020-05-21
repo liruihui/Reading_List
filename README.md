@@ -192,7 +192,7 @@ Reading list on deep learning.
 
 ## 2D Image
 
-
+* **ISRN**: Yuqing Liu et al. "Iterative Network for Image Super-Resolution" arXiv: 2005.09964 (DLUT)
 
 * **VAE+Flow**: Xuezhe Ma1 et al. "Decoupling Global and Local Representations from/for Image Generation" arXiv: 2004.11820
 
