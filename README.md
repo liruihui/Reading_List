@@ -16,6 +16,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **Spatial Transformer**: Jiayun Wang et al. "Spatial Transformer for 3D Point Clouds" arXiv:1906.10887 (UC Berkeley)
+
 * **MOPS-Net**: Yue Qian et al. "MOPS-Net: A Matrix Optimization-driven Network for Task-Oriented 3D Point Cloud Downsampling" arXiv:2005.00383 (CityU)
 
 * **C-Flow**: Albert Pumarola et al. "C-Flow: Conditional Generative Flow Models for Images and 3D Point Clouds". In CVPR 2020 (Google)
