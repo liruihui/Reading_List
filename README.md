@@ -199,6 +199,10 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **Stand-Alone**: Prajit Ramachandran et al. "Stand-Alone Self-Attention in Vision Models" In NIPS 2019 (Google)
+
+* **AA-Net**: Irwan Bello et al. "Attention Augmented Convolutional Networks" In ICCV 2019 (Google)
+
 * **ISRN**: Yuqing Liu et al. "Iterative Network for Image Super-Resolution" arXiv: 2005.09964 (DLUT)
 
 * **VAE+Flow**: Xuezhe Ma1 et al. "Decoupling Global and Local Representations from/for Image Generation" arXiv: 2004.11820
