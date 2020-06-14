@@ -199,6 +199,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **PULSE**: Sachit Menon et al. "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models". CVPR2020(Duke)
+
 * **Relation-Net**: Han Hu et al. "Relation networks for object detection". CVPR 2018(MSRA)
 
 * **Stand-Alone**: Prajit Ramachandran et al. "Stand-Alone Self-Attention in Vision Models" In NIPS 2019 (Google)
