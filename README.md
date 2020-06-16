@@ -16,7 +16,7 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
-* **ACNe**: Weiwei Sun et al. "ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning" (University of Victoria)
+* **ACNe**: Weiwei Sun et al. "ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning". CVPR 2020 (University of Victoria)
 
 * **Spatial Transformer**: Jiayun Wang et al. "Spatial Transformer for 3D Point Clouds" arXiv:1906.10887 (UC Berkeley)
 
