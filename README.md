@@ -201,7 +201,7 @@ Reading list on deep learning.
 
 ## 2D Image
 
-* **v**: Shuyang Gu et al. "PriorGAN: Real Data Prior for Generative Adversarial Nets". arXiv 2006.16990 (USTC) 
+* **PriorGAN**: Shuyang Gu et al. "PriorGAN: Real Data Prior for Generative Adversarial Nets". arXiv 2006.16990 (USTC) 
 
 * **PULSE**: Sachit Menon et al. "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models". CVPR2020(Duke)
 
