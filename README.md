@@ -328,6 +328,8 @@ Reading list on deep learning.
 
 * **STDL**: Peng Zhou et al. "Scale-Transferrable Object Detection." In CVPR 2018.
 
+* **DARTS**: Hanxiao Liu et al. "DARTS: DIFFERENTIABLE ARCHITECTURE SEARCH." In ICLR 2019. (CMU)
+
 ## GNN
 * Peter W. Battaglia, et al. "Relational inductive biases, deep learning, and graph networks." arXiv: 1806.01261
 
