@@ -16,6 +16,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **PDGN**: Le Hui et al. "Progressive Point Cloud Deconvolution Generation Network". ECCV 2020 (NJUST)
+
 * **ACNe**: Weiwei Sun et al. "ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning". CVPR 2020 (University of Victoria)
 
 * **Spatial Transformer**: Jiayun Wang et al. "Spatial Transformer for 3D Point Clouds" arXiv:1906.10887 (UC Berkeley)
