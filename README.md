@@ -16,6 +16,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **PointContrast**: Saining Xie et al. "PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding" ECCV 2020 (FAIR)
+
 * **SVCN**: Li Yi et al. "Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds". arXiv 2007 (Google)
 
 * **PDGN**: Le Hui et al. "Progressive Point Cloud Deconvolution Generation Network". ECCV 2020 (NJUST)
