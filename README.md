@@ -209,6 +209,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **CUT**: Taesung Park et al."Contrastive Learning for Unpaired Image-to-Image Translation" ECCV2020(UCB)
+
 * **GAN Prior**: Jinjin Gu et al. "Image Processing Using Multi-Code GAN Prior". CVPR2020(CUHK)
 
 * **PriorGAN**: Shuyang Gu et al. "PriorGAN: Real Data Prior for Generative Adversarial Nets". arXiv 2006.16990 (USTC) 
