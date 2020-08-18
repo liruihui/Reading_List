@@ -12,6 +12,9 @@ Reading list on deep learning.
 * **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033 (NUDT)
 
 ## Metric learning
+
+* **PointMixup**: Yunlu Chen et al. "PointMixup: Augmentation for Point Clouds" In ECCV 2020 (University of Amsterdam)
+
 * **Embedding Expansion**: Byungsoo Ko et al. "Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning" In CVPR 2020 (NAVER)
 
 ## 3D Mesh && PointCloud
