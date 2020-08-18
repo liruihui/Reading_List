@@ -19,6 +19,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **GvG-P**: Xiaoyi Dong et al. "Self-Robust 3D Point Recognition via Gather-Vector Guidance" In CVPR 2020 (USTC)
+
 * **PosPool**: Ze Liu et al."A Closer Look at Local Aggregation Operators in Point Cloud Analysis" ECCV 2020 (NSTC)
 
 * **PointNL**: Mingmei Cheng et al. " Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation " IROS 2020 (NUST)
