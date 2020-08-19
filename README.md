@@ -19,6 +19,10 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **LG-GAN**: Hang Zhou et al. "LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud Based Deep Networks" In CVPR 2020 (USTC)
+
+* **DUP-Net**: Hang Zhou et al. "DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense" In ICCV 2019 (USTC)
+
 * **GvG-P**: Xiaoyi Dong et al. "Self-Robust 3D Point Recognition via Gather-Vector Guidance" In CVPR 2020 (USTC)
 
 * **PosPool**: Ze Liu et al."A Closer Look at Local Aggregation Operators in Point Cloud Analysis" ECCV 2020 (NSTC)
