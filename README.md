@@ -222,6 +222,9 @@ Reading list on deep learning.
 
 ## 2D Image
 
+
+* **FONTS**: David Stutz et al."Disentangling Adversarial Robustness and Generalization" CVPR2019(University of Tubingen)
+
 * **TI-FGSM**: Yinpeng Dong et al."Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks" CVPR2019(THU)
 
 * **CUT**: Taesung Park et al."Contrastive Learning for Unpaired Image-to-Image Translation" ECCV2020(UCB)
