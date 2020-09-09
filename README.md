@@ -222,6 +222,7 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **Shape Adaptor**: Shikun Liu et al."Shape Adaptor: A Learnable Resizing Module". ECCV 2020 (Imperial College London)
 
 * **FONTS**: David Stutz et al."Disentangling Adversarial Robustness and Generalization" CVPR2019(University of Tubingen)
 
