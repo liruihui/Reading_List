@@ -222,6 +222,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **IOFPL**: Markus Hofinger et al. "Improving Optical Flow on a Pyramid Level" ECCV 2020 (Facebook)
+
 * **RAFT**: Zachary Teed et al. "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow" ECCV 2020 (Princeton University)
 
 * **Shape Adaptor**: Shikun Liu et al."Shape Adaptor: A Learnable Resizing Module". ECCV 2020 (Imperial College London)
