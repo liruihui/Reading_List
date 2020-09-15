@@ -222,6 +222,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **RAFT**: Zachary Teed et al. "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow" ECCV 2020 (Princeton University)
+
 * **Shape Adaptor**: Shikun Liu et al."Shape Adaptor: A Learnable Resizing Module". ECCV 2020 (Imperial College London)
 
 * **FONTS**: David Stutz et al."Disentangling Adversarial Robustness and Generalization" CVPR2019(University of Tubingen)
