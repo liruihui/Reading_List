@@ -222,6 +222,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **SAOL**: Ildoo Kim et al. "Spatially Attentive Output Layer for Image Classification" CVPR 2020 (Kakao Brain)
+
 * **IOFPL**: Markus Hofinger et al. "Improving Optical Flow on a Pyramid Level" ECCV 2020 (Facebook)
 
 * **RAFT**: Zachary Teed et al. "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow" ECCV 2020 (Princeton University)
