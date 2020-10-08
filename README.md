@@ -19,6 +19,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **UDS**: Yi Shi et al. "Unsupervised Deep Shape Descriptor with Point Distribution Learning" In CVPR 2020 (NYU)
+
 * **MS-cGAN**: Rundi Wu et al. "Multimodal Shape Completion via Conditional Generative Adversarial Networks" In ECCV 2020 (PKU)
 
 * **LG-GAN**: Hang Zhou et al. "LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud Based Deep Networks" In CVPR 2020 (USTC)
