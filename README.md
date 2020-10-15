@@ -224,6 +224,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **Triplet Attention**: Diganta Misra et al. "Rotate to Attend: Convolutional Triplet Attention Module" arXiv 2010.03045(Landskape)
+
 * **SSN**: Wenqi Shao et al. "SSN: Learning Sparse Switchable Normalization via SparsestMax" CVPR 2019 (CUHK)
 
 * **SAOL**: Ildoo Kim et al. "Spatially Attentive Output Layer for Image Classification" CVPR 2020 (Kakao Brain)
