@@ -17,6 +17,8 @@ Reading list on deep learning.
 
 * **Embedding Expansion**: Byungsoo Ko et al. "Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning" In CVPR 2020 (NAVER)
 
+* **BALMS**: Jiawei Ren et al."Balanced Meta-Softmax for Long-Tailed Visual Recognition" In NIPS 2020 (NTU)
+
 ## 3D Mesh && PointCloud
 
 * **Rethinking Sampling**:  He Wang et al. "Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks" arXiv:2006.07029 (Standford)
