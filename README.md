@@ -19,6 +19,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **Rethinking Sampling**:  He Wang et al. "Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks" arXiv:2006.07029 (Standford)
+
 * **UDS**: Yi Shi et al. "Unsupervised Deep Shape Descriptor with Point Distribution Learning" In CVPR 2020 (NYU)
 
 * **MS-cGAN**: Rundi Wu et al. "Multimodal Shape Completion via Conditional Generative Adversarial Networks" In ECCV 2020 (PKU)
