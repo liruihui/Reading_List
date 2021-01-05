@@ -228,6 +228,9 @@ Reading list on deep learning.
 
 ## 2D Image
 
+
+* **iSeeBetter**: Aman Chadha et al. "iSeeBetter: Spatio-temporal video super-resolution using recurrent generative back-projection networks" (Standford)
+
 * **Triplet Attention**: Diganta Misra et al. "Rotate to Attend: Convolutional Triplet Attention Module" arXiv 2010.03045(Landskape)
 
 * **SSN**: Wenqi Shao et al. "SSN: Learning Sparse Switchable Normalization via SparsestMax" CVPR 2019 (CUHK)
