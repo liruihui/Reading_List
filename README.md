@@ -228,6 +228,23 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **iGPT**: Alec Radford, et al. "Generative Pretraining From Pixels". OpenAI. 2020 ICML. 
+
+* **OASIS**: Edgar Schonfeld, et al. "You Only Need Adversarial Supervision for Semantic Image Synthesis." BOSCH. 2021 ICLR. 
+
+* **U-Net GAN**: Edgar Schonfeld, et al. "A U-Net Based Discriminator for Generative Adversarial Networks." BOSCH. 2020 CVPR. 
+
+* **GauGAN/SPADE**: Taesung Park, et al."Semantic Image Synthesis with Spatially-Adaptive Normalization"  NVIDIA. 2019 CVPR. 
+
+* **BigGAN**: Andrew Brock, et al. "Large Scale GAN Training for High Fidelity Natural Image Synthesis" DeepMind. ICLR 2019
+
+* **StyleGAN2**: Tero Karras, et al. "Analyzing and Improving the Image Quality of StyleGAN." NVIDIA. 2020 CVPR. 
+
+* **StyleGAN**: Tero Karras , et al. "A Style-Based Generator Architecture for Generative Adversarial Networks ." NVIDIA. 2019 CVPR. 
+
+* **I2I Survey**: Yingxue Pang et al. "Image-to-Image Translation: Methods and Applications" arXiv 2101.08629 (USTC)
+
+* **Tangent Images**: Marc Eder et al. "Tangent Images for Mitigating Spherical Distortion" CVPR 2020 (UNC)
 
 * **iSeeBetter**: Aman Chadha et al. "iSeeBetter: Spatio-temporal video super-resolution using recurrent generative back-projection networks" (Standford)
 
@@ -304,8 +321,6 @@ Reading list on deep learning.
 * **TTUR**: Martin Heusel, et al. "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ." In 2017 NIPS.
 
 * **SGAN**: Xun Huang , et al. "Stacked Generative Adversarial Networks ." In 2017 CVPR. 
-
-* **Style-Based GAN**: Tero Karras , et al. "A Style-Based Generator Architecture for Generative Adversarial Networks ." NVIDIA. In 2018 arXiv. 
 
 * **StarGAN**: Choi, Yunjey, et al. "Stargan: Unified generative adversarial networks for multi-domain image-to-image translation." In CVPR 2018. 
 
