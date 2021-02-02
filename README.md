@@ -11,6 +11,8 @@ Reading list on deep learning.
 
 * **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033 (NUDT)
 
+* **I2I Survey**: Yingxue Pang et al. "Image-to-Image Translation: Methods and Applications" arXiv 2101.08629 (USTC)
+
 ## Metric learning
 
 * **PointMixup**: Yunlu Chen et al. "PointMixup: Augmentation for Point Clouds" In ECCV 2020 (University of Amsterdam)
@@ -245,8 +247,6 @@ Reading list on deep learning.
 * **StyleGAN2**: Tero Karras, et al. "Analyzing and Improving the Image Quality of StyleGAN." NVIDIA. 2020 CVPR. 
 
 * **StyleGAN**: Tero Karras , et al. "A Style-Based Generator Architecture for Generative Adversarial Networks ." NVIDIA. 2019 CVPR. 
-
-* **I2I Survey**: Yingxue Pang et al. "Image-to-Image Translation: Methods and Applications" arXiv 2101.08629 (USTC)
 
 * **Tangent Images**: Marc Eder et al. "Tangent Images for Mitigating Spherical Distortion" CVPR 2020 (UNC)
 
