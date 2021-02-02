@@ -238,6 +238,10 @@ Reading list on deep learning.
 
 * **BigGAN**: Andrew Brock, et al. "Large Scale GAN Training for High Fidelity Natural Image Synthesis" DeepMind. ICLR 2019
 
+* **Few-Shot StyleGAN**: Tero Karras, et al. "Training generative adversarial networks with limited data." NVIDIA. arXiv:2006.06676. 
+
+* **Semi-StyleGAN**: Tero Karras, et al. "Semi-Supervised StyleGAN for Disentanglement Learning." NVIDIA. 2020 ICML. 
+
 * **StyleGAN2**: Tero Karras, et al. "Analyzing and Improving the Image Quality of StyleGAN." NVIDIA. 2020 CVPR. 
 
 * **StyleGAN**: Tero Karras , et al. "A Style-Based Generator Architecture for Generative Adversarial Networks ." NVIDIA. 2019 CVPR. 
