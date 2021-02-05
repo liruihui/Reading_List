@@ -13,6 +13,10 @@ Reading list on deep learning.
 
 * **I2I Survey**: Yingxue Pang et al. "Image-to-Image Translation: Methods and Applications" arXiv 2101.08629 (USTC)
 
+* **GAN Survey**: Zhengwei Wang et al. "Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy" ACM Computing Surveys 2020 (Trinity College Dublin)
+
+* **GAN Survey**: Abdul Jabbar et al. "A Survey on Generative Adversarial Networks:Variants, Applications, and Training". 2020 (ZJU)
+
 * **ViT Survey**: Kai Han et al. "A Survey on Visual Transformer" arXiv 2012.12556 (Noah)
 
 * **ViT Survey**: Salman Khan et al. "Transformers in Vision: A Survey" arXiv 2101.01169 (MBZ)
