@@ -13,6 +13,10 @@ Reading list on deep learning.
 
 * **I2I Survey**: Yingxue Pang et al. "Image-to-Image Translation: Methods and Applications" arXiv 2101.08629 (USTC)
 
+* **ViT Survey**: Kai Han et al. "A Survey on Visual Transformer" arXiv 2012.12556 (Noah)
+
+* **ViT Survey**: Salman Khan et al. "Transformers in Vision: A Survey" arXiv 2101.01169 (MBZ)
+
 ## Metric learning
 
 * **PointMixup**: Yunlu Chen et al. "PointMixup: Augmentation for Point Clouds" In ECCV 2020 (University of Amsterdam)
