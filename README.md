@@ -31,6 +31,10 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **GPDNet**: Pistilli, Francesca et al. "Learning Graph-Convolutional Representationsfor Point Cloud Denoising". ECCV 2020 (Politecnico di Torino, Italy)
+
+* **DMRDenoise**:  Luo, Shitong et al. "Differentiable Manifold Reconstruction for Point Cloud Denoising". ACMMM 2021 (PKU)
+
 * **Rethinking Sampling**:  He Wang et al. "Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks" arXiv:2006.07029 (Standford)
 
 * **UDS**: Yi Shi et al. "Unsupervised Deep Shape Descriptor with Point Distribution Learning" In CVPR 2020 (NYU)
