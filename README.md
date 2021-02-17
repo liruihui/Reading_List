@@ -242,6 +242,12 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **Deformable DETR**: Xizhou Zhu et al."Deformable DETR: Deformable Transformers for End-to-End Object Detection". SenseTime. 2021 ICLR. 
+* 
+* **TransGAN**: Yifan Jiang et al. "TransGAN: Two Transformers Can Make One Strong GAN". Texas University. 2021 ICML. 
+
+* **ViT**: Alexey, Dosovitskiy et al. "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale". Google Brain. 2021 ICLR. 
+
 * **iGPT**: Alec Radford, et al. "Generative Pretraining From Pixels". OpenAI. 2020 ICML. 
 
 * **OASIS**: Edgar Schonfeld, et al. "You Only Need Adversarial Supervision for Semantic Image Synthesis." BOSCH. 2021 ICLR. 
