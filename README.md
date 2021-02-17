@@ -242,8 +242,10 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **DiffAug**: Shengyu Zhao et al. "Differentiable Augmentation for Data-Efficient GAN Training". THU. 2020 NIPS
+
 * **Deformable DETR**: Xizhou Zhu et al."Deformable DETR: Deformable Transformers for End-to-End Object Detection". SenseTime. 2021 ICLR. 
-* 
+
 * **TransGAN**: Yifan Jiang et al. "TransGAN: Two Transformers Can Make One Strong GAN". Texas University. 2021 ICML. 
 
 * **ViT**: Alexey, Dosovitskiy et al. "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale". Google Brain. 2021 ICLR. 
