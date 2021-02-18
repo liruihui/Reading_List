@@ -242,6 +242,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **DSA**: Bo Zhao et al. "Dataset Condensation with Differentiable Siamese Augmentation". University of Edinburgh. ICML 2021
+
 * **DiffAug**: Shengyu Zhao et al. "Differentiable Augmentation for Data-Efficient GAN Training". THU. 2020 NIPS
 
 * **Deformable DETR**: Xizhou Zhu et al."Deformable DETR: Deformable Transformers for End-to-End Object Detection". SenseTime. 2021 ICLR. 
