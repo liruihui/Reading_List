@@ -242,6 +242,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **CS-DisMo**:Xuanchi Ren et al. "Rethinking Content and Style: Exploring Bias for Unsupervised Disentanglemen" HKUST. arxiv 2021
+
 * **DSA**: Bo Zhao et al. "Dataset Condensation with Differentiable Siamese Augmentation". University of Edinburgh. ICML 2021
 
 * **DiffAug**: Shengyu Zhao et al. "Differentiable Augmentation for Data-Efficient GAN Training". THU. 2020 NIPS
