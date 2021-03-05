@@ -31,6 +31,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **Spare-Net**: Chulin Xie et al. "Style-based Point Generator with Adversarial Rendering for Point Cloud Completion". CVPR 2021 (UIUC)
+
 * **GPDNet**: Pistilli, Francesca et al. "Learning Graph-Convolutional Representationsfor Point Cloud Denoising". ECCV 2020 (Politecnico di Torino, Italy)
 
 * **DMRDenoise**:  Luo, Shitong et al. "Differentiable Manifold Reconstruction for Point Cloud Denoising". ACMMM 2021 (PKU)
@@ -241,6 +243,8 @@ Reading list on deep learning.
 
 
 ## 2D Image
+
+* **AniGAN**:Bing Li et al. " AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation" KAUST. arxiv 2021
 
 * **CS-DisMo**:Xuanchi Ren et al. "Rethinking Content and Style: Exploring Bias for Unsupervised Disentanglemen" HKUST. arxiv 2021
 
