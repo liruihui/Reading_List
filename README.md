@@ -244,6 +244,9 @@ Reading list on deep learning.
 
 ## 2D Image
 
+
+* **Infinite Nature**:Andrew Liu et al. "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image" Google. arxiv 2021
+
 * **AniGAN**:Bing Li et al. " AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation" KAUST. arxiv 2021
 
 * **CS-DisMo**:Xuanchi Ren et al. "Rethinking Content and Style: Exploring Bias for Unsupervised Disentanglemen" HKUST. arxiv 2021
