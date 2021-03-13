@@ -31,6 +31,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **GeoNet**: Tong He et al."GeoNet: Deep Geodesic Networks for Point Cloud Analysis" CVPR 2019 (UCLA)
+* 
 * **Spare-Net**: Chulin Xie et al. "Style-based Point Generator with Adversarial Rendering for Point Cloud Completion". CVPR 2021 (UIUC)
 
 * **GPDNet**: Pistilli, Francesca et al. "Learning Graph-Convolutional Representationsfor Point Cloud Denoising". ECCV 2020 (Politecnico di Torino, Italy)
