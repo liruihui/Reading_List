@@ -244,6 +244,7 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **Im2Vec**:Pradyumna Reddy et al. "Im2Vec: Synthesizing Vector Graphics without Vector Supervision" UCL. CVPR 20201
 
 * **Infinite Nature**:Andrew Liu et al. "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image" Google. arxiv 2021
 
