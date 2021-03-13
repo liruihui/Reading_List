@@ -8,8 +8,10 @@ Reading list on deep learning.
 
 ## Survey
 
+* **Geometric Primitives**: Shaobo Xia et al."Geometric Primitives in LiDAR Point Clouds: A Review"
+
 * **Surface Reconstrcution**: Matthew Berger et al."A Survey of Surface Reconstruction from Point Clouds". CGF 2016
-* 
+
 * **3D Survey**: Ying Li et al. "Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review" arXiv:2005.09830 (Waterloo)
 
 * **3D Survey**: Yulan Guo, et al. "Deep Learning for 3D Point Clouds: A Survey" arXiv:1912.12033 (NUDT)
