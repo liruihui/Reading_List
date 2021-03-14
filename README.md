@@ -251,6 +251,8 @@ Reading list on deep learning.
 
 ## 2D Image
 
+* **PISE**:Jinsong Zhang et al. "PISE: Person Image Synthesis and Editing with Decoupled GAN" Tianjin University. CVPR 20201
+* 
 * **Im2Vec**:Pradyumna Reddy et al. "Im2Vec: Synthesizing Vector Graphics without Vector Supervision" UCL. CVPR 20201
 
 * **Infinite Nature**:Andrew Liu et al. "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image" Google. arxiv 2021
