@@ -36,6 +36,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **IMLSNet**: Shi-Lin Liu et al."Deep Implicit Moving Least-Squares Functions for 3D Reconstruction" CVPR 2021 (MSRA)
+
 * **GeoNet**: Tong He et al."GeoNet: Deep Geodesic Networks for Point Cloud Analysis" CVPR 2019 (UCLA)
  
 * **Spare-Net**: Chulin Xie et al. "Style-based Point Generator with Adversarial Rendering for Point Cloud Completion". CVPR 2021 (UIUC)
