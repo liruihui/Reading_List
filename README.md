@@ -34,6 +34,12 @@ Reading list on deep learning.
 
 * **BALMS**: Jiawei Ren et al."Balanced Meta-Softmax for Long-Tailed Visual Recognition" In NIPS 2020 (NTU)
 
+ 
+## Biomolecule Modelling
+
+* **dMaSIF**: Freyr Sverrisson et al."Fast End-to-End Learning on Protein Surfaces". CVPR 2021 (EPFL)
+
+
 ## 3D Mesh && PointCloud
 
 * **IMLSNet**: Shi-Lin Liu et al."Deep Implicit Moving Least-Squares Functions for 3D Reconstruction" CVPR 2021 (MSRA)
