@@ -42,6 +42,8 @@ Reading list on deep learning.
 
 ## 3D Mesh && PointCloud
 
+* **VSL**: Shikun Liu et al."Learning a Hierarchical Latent-Variable Model of 3D Shapes" 3DV 2018 (ICL)
+
 * **IMLSNet**: Shi-Lin Liu et al."Deep Implicit Moving Least-Squares Functions for 3D Reconstruction" CVPR 2021 (MSRA)
 
 * **GeoNet**: Tong He et al."GeoNet: Deep Geodesic Networks for Point Cloud Analysis" CVPR 2019 (UCLA)
